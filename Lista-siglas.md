@@ -1,8 +1,4 @@
-# Dio-Desafio-Github
-
-## Desafio de Projeto sobre Git/Github
-
-### Lista de siglas para git bash🤝
+# Lista de siglas para git bash🤝
 
 - git init: cria repositório dentro do diretório (pasta)
 
@@ -48,3 +44,4 @@
 
 - rmdir para remover depositório
 
+  
